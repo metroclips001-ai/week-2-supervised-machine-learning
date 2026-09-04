@@ -1,0 +1,9 @@
+week-2-supervised-machine-learning/
+│
+├── README.md
+├── week2_supervised_ml.py
+└── outputs/
+    ├── classification_model_comparison.csv
+    ├── classification_model_comparison.png
+    ├── linear_regression_predictions.csv
+    └── linear_regression_actual_vs_predicted.png
